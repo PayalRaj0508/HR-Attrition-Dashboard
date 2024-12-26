@@ -1,0 +1,15 @@
+# Project Overview  
+
+## Objective  
+To create a robust, interactive HR Attrition Dashboard that provides actionable insights on employee attrition trends across departments, age groups, and other dimensions.  
+
+## Key Learnings  
+- Automating data processes using Power Query.  
+- Building efficient data models with Power Pivot.  
+- Writing DAX formulas for advanced analytics.  
+- Crafting professional charts and visuals to communicate insights effectively.  
+
+## Insights Gained  
+- Attrition trends by job roles, education levels, and business travel frequency.  
+- Breakdown of attrition rates by gender, age group, and performance levels.  
+- Identification of key drivers affecting employee attrition.  
