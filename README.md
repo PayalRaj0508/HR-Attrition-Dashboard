@@ -31,6 +31,3 @@ This project demonstrates the creation of an advanced **HR Attrition Dashboard**
 We’d love your feedback! Please check the **Feedback_Guidelines.md** file to learn how you can share your thoughts.  
 
 ---
-
-## License  
-This project is licensed under [Insert License Here].  
